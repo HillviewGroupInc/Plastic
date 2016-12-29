@@ -1,0 +1,81 @@
+﻿body {
+    
+}
+
+b {
+    font-weight:bold;
+}
+
+p {
+padding:20px;
+}
+
+.col-md-4, .sub {
+color:white;
+}
+
+.container-fluid {
+    padding-bottom:10px;
+}
+
+p{
+	padding: 10px 10px 0 10px;
+	}
+.center, #order,.paypal{
+			text-align: center;
+		  }
+ .price{
+	 		color:#660000;
+             font-weight:bold;
+	 }
+
+.jumbotron h2,.under{
+    display:inline;
+    font-family: 'Sigmar One', cursive;
+
+}
+
+.under {
+    /*font-family: 'Indie Flower', cursive;*/
+    font-family: 'Candal', sans-serif;
+}
+
+.navbar-text h1, h3 {
+    display:inline;
+
+}
+
+.navbar-header h2, h5 {
+    display:inline;
+    
+}
+
+.navbar-brand {
+    /*font-family: 'Candal', sans-serif;*/
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.free {
+    font-family: 'Luckiest Guy', cursive;
+    color:red;
+}
+
+.red {
+    color:red;
+}
+
+.thumbnail img:hover{
+transform: scale(1.1);
+border:3px #67c8ff;
+}
+
+.thumbnail img {
+    transition:all 0.3s ease 0s;
+    width: 100%;
+    
+}
+
+.thumbnail {
+    overflow:hidden;
+    
+}
